@@ -1,0 +1,11 @@
+/Users/stha_sangam/BankAccountDemo/BankAccountDemo/bin/Debug/net8.0/BankAccountDemo.deps.json
+/Users/stha_sangam/BankAccountDemo/BankAccountDemo/bin/Debug/net8.0/BankAccountDemo.dll
+/Users/stha_sangam/BankAccountDemo/BankAccountDemo/bin/Debug/net8.0/BankAccountDemo.pdb
+/Users/stha_sangam/BankAccountDemo/BankAccountDemo/obj/Debug/net8.0/BankAccountDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stha_sangam/BankAccountDemo/BankAccountDemo/obj/Debug/net8.0/BankAccountDemo.AssemblyInfoInputs.cache
+/Users/stha_sangam/BankAccountDemo/BankAccountDemo/obj/Debug/net8.0/BankAccountDemo.AssemblyInfo.cs
+/Users/stha_sangam/BankAccountDemo/BankAccountDemo/obj/Debug/net8.0/BankAccountDemo.csproj.CoreCompileInputs.cache
+/Users/stha_sangam/BankAccountDemo/BankAccountDemo/obj/Debug/net8.0/BankAccountDemo.dll
+/Users/stha_sangam/BankAccountDemo/BankAccountDemo/obj/Debug/net8.0/refint/BankAccountDemo.dll
+/Users/stha_sangam/BankAccountDemo/BankAccountDemo/obj/Debug/net8.0/BankAccountDemo.pdb
+/Users/stha_sangam/BankAccountDemo/BankAccountDemo/obj/Debug/net8.0/ref/BankAccountDemo.dll
